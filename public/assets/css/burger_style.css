@@ -1,0 +1,44 @@
+
+h1 {
+    text-align: center;
+}
+
+#devour {
+    text-align: left;
+    margin-left: 200px;
+}
+
+#devoured {
+    text-align: right;
+    margin-right: 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.not-devoured {
+    text-align: left;
+    margin-left: auto;
+}
+
+.devoured {
+    text-align: right;
+    margin-right: 200px;
+}
+
+.addBurger {
+    text-align: center;
+}
+
+#container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
