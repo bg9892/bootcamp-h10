@@ -16,7 +16,7 @@ npm install
 run npm start
 
 # Screenshots
-![Index](public/assests/img/screenshot.png)
+![Index](screenshot.png)
 
 
 
